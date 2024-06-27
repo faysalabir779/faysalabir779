@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="500" src="https://raw.githubusercontent.com/Muhammad-Noman59/Muhammad-Noman59/main/GitHub-Cover-Image.png"  />
-</div>
+![logo](https://github.com/Muhammad-Noman59/Muhammad-Noman59/blob/main/GitHub-Cover-Image.png)
 
 <h2 align="left">Hi 👋! My name is Faysal Sarker, A Passionate Full Stack Mobile App Develooper</h2>
 
