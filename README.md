@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently learning **Full Stack Mobile Application Development**
 
 - 📫 How to reach me on email **faysal.cse.201002064@gmail.com**
-<img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif"  />
+<img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*kwdKYeBhSurvTTwCWLrE4w.gif"  />
 
 ###
 
@@ -36,13 +36,14 @@
 ###
 
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysalabir779&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=faysalabir779&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalabir779&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalabir779&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faysalabir779&theme=dracula&hide_border=false)
 <br/>
